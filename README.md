@@ -1,4 +1,4 @@
-# Mjeffryes Mjeffryes
+# Mjeffryes 
 Personal tap for custom installs
 
 ## How do I install these formulae?
